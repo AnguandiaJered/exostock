@@ -1,0 +1,2 @@
+# exostock
+exercice stock manager
